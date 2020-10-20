@@ -1,0 +1,3 @@
+public claas Test{
+	System.out.println("你好啊");
+}
