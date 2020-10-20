@@ -20,7 +20,7 @@ public class Servlet extends HttpServlet {
         Map<String, String[]> parameterMap = request.getParameterMap();
         ObjectMapper objectMapper = new ObjectMapper();
 
-
+				//请求
     }
 
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
